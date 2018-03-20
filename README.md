@@ -1,2 +1,9 @@
-# Android-SafeScore
-SafeScore is an application to track the safety level of a woman at any time and location. The app also has advanced background capabalities to prevent women abuse and report any emergency situations to police and emergency contact of the person.
+# Hackathon 4.0 Submission
+Team Name - TechSpark
+SSO Username - PRT1897
+Team Lead Mobile - 8838118348
+Team Lead Email - prt1897@gmail.com
+
+## Team Details
+1. Praveen Thirumurugan (QR - 05044772)
+2. Bharath Raj Kumar (QR - 05020577)
