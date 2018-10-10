@@ -1,11 +1,10 @@
 # Hackathon 4.0 Submission 
-## !PROJECT-SHUTDOWN-ON-SERVER
+## PROJECT-NOT-LIVE
 * Team Name - TechSpark
 * Category - Tourism
 * SSO Username - PRT1897
 * Team Lead Mobile - 8838118348
-* Team Lead Email - prt1897@gmail.com
-
+* Team Lead Email - thirupraveen18@gmail.com
 ## Team Details
 1. Praveen Thirumurugan (QR - 05044772)
 2. Bharath Raj Kumar (QR - 05020577)
